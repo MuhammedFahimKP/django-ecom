@@ -1,0 +1,36 @@
+/*
+Custom Css
+*/
+
+.rounded-circle{
+    height: 342px;
+    width: 342px;
+    
+
+}
+
+.card-img{
+    height: 404px;
+    width: 303px;
+}
+
+#MyButton{
+    background-color: #59ab6e;
+    border-color: #59ab6e;
+}
+#MyButton:focus{
+    box-shadow: none;
+}
+#productdetailimg{
+    height: 526px;
+    width: 100%;
+
+}
+#jkr{
+    background-color: #ff0000;
+    color: #fff;
+    opacity: 1;
+
+}#MyButton:focus{
+    box-shadow: aqua;
+}
